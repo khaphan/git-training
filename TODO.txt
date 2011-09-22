@@ -9,3 +9,16 @@ Rouge sur fond vert
 
 Titre de l'application
 Resaspi
+
+Langage de programmation de l'application:
+Java
+
+Serveur d'application:
+tomcat 7
+
+Technologies web:
+-Servlet & JSP
+-Wicket
+-Struts2
+-JSF
+
